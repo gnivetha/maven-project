@@ -4,7 +4,7 @@
 
   <groupId>com.github.jitpack</groupId>
   <artifactId>maven-simple</artifactId>
-  <version>${Version_Number}</version>
+  <version>0.5-snap</version>
   <packaging>jar</packaging>
 
   <name>Simple Maven example</name>
