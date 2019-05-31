@@ -9,15 +9,10 @@
 	options {
     skipDefaultCheckout(true)
 	}
-    stages {
-    
-	    
-	    
-	    
+    stages {	    
 	    stage('Checkout') {
 		    
-		    
-			steps {
+		    steps {
 				scmFile("master","https://github.com/gnivetha/maven-project.git")
 			}
 		}
