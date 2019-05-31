@@ -1,8 +1,8 @@
 //@Library('pipeline-library-v1.0')_
 //@Library('maven-project')_
 //MainFile()
-def call()
-{
+//def call()
+//{
 	pipeline {
     agent any
 	
@@ -56,5 +56,5 @@ def call()
 	}
 
 }
-}
+//}
 
