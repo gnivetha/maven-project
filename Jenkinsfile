@@ -1,2 +1,2 @@
-@Library('pipeline-library')_
+@Library('pipeline-library@master')_
 MainFile()
